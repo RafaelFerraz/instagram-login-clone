@@ -1,16 +1,15 @@
-# Clone da página de login do Instagram
+# Instagram login page clone
 
-Olá!
 
-Essa página foi criada como um exercício prático da _Digital Innovation One_ (DIO) para o Bootcamp **HTML Web Developer**.
+Hello!
 
-O projeto contempla:
+
+This page was created as a practical exercise by _Digital Innovation One_ (https://www.dio.me/) for the Bootcamp **HTML Web Developer**.
+
+
+The project includes:
 
 - HTML5
 - CSS3
 - Flexbox
-- Responsividade
-
-
-
-Espero que gostem :smile:
+- Responsiveness
